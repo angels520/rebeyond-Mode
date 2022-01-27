@@ -13,5 +13,8 @@ bebeyond 修改版，暂定版本编号3.1
 公众号： bytecode11
 
 下个版本：
-https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-01-27_23-15-52.png
-https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-01-27_23-16-18.png
+<image src="https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-01-27_23-15-52.png" placeholder-image="/Snipaste_2022-01-27_23-15-52.png" brokenImage="/Snipaste_2022-01-27_23-15-52.png" class="logo"></image-ext>
+<image src="https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-01-27_23-16-18.png" placeholder-image="/Snipaste_2022-01-27_23-16-18.png" brokenImage="/Snipaste_2022-01-27_23-16-18.png" class="logo"></image-ext>
+
+新增不同shell加载不同的profile,可定义响应代码,增加实用插件一到两个....
+你们的支持是我最大的动力....
