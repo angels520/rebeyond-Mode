@@ -20,4 +20,7 @@
 ##3.1更新信息:
 1. 增加profile支持
 
+针对3.2 MAC问题部分已经修复，M1 sqlite版本已经更换，mac 12.1出现的问题未能找到原因，mimikatz已经支持[暂时未更新]：
+![Image text](https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-02-12_23-34-46.png?raw=true)
+
 你们的支持是我最大的动力....
