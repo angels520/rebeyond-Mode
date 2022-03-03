@@ -16,6 +16,7 @@
 4. 内置插件增加
 
 注意，默认是开启代理的，需要采用提供的服务端:
+
 ![Image text](https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-03-03_20-18-00.png)
 
 ##3.2更新信息 [密码错误已重新打包]:
