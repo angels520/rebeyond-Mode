@@ -19,6 +19,8 @@
 
 ![Image text](https://github.com/angels520/rebeyond-Mode/blob/main/Snipaste_2022-03-03_20-18-00.png)
 
+演示视屏:https://github.com/angels520/rebeyond-Mode/blob/main/20220303_215429.mp4
+
 ##3.2更新信息 [密码错误已重新打包]:
 
 1. 修改profile支持	
